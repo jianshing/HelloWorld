@@ -2,6 +2,7 @@ package com.example;
 /*
  * Add Author
  * Author : JW
+ * Second commit
  */
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
